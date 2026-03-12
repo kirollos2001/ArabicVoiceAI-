@@ -2,8 +2,10 @@
 
 > **Intelligent Arabic Audio Processing:** Transcribe, Diarize, Clean, Summarize & Speak — End-to-End.
 
-<!-- Banner image — replace with your generated image path -->
-<!-- ![ArabicVoiceAI Banner](./assets/banner.png) -->
+<!-- Banner image -->
+<p align="center">
+  <img src="assets/banner.png" alt="ArabicVoiceAI Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
